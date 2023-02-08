@@ -1,2 +1,1 @@
-script that prints the absolute path name of the current working directory>README.md
-echo Task 0.Where am I ?
+Display the contents list of your current directory in a long format
